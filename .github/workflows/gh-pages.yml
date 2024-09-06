@@ -22,9 +22,11 @@ jobs:
 
     - name: Build
       run: npm run build
-
     - name: Deploy
-      uses: peaceiris/actions-gh-pages@v4
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./dist
+      run: |
+        mkdir docs
+        cp -r dist/* docs/
+        git checkout main
+        git add docs
+        git commit -m "Update docs folder"
+        git push origin main
