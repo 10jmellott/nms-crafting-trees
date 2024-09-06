@@ -26,7 +26,8 @@ jobs:
       run: |
         mkdir docs
         cp -r dist/* docs/
-        git checkout main
+        git config --global user.name "10jmellott"
+        git config --global user.email "10jmellott@gmail.com"
         git add docs
         git commit -m "Update docs folder"
         git push origin main
