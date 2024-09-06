@@ -15,11 +15,11 @@ const quantity = ref(1);
 		<nav class="app__recipes">
 			<div class="recipe" :class="{ active: selectedRecipe?.name === recipe.name }" v-for="recipe in recipes"
 				:key="recipe.name" @click="selectedRecipe = recipe">
-				{{ recipe.name }}
 				<div class="quantity" v-if="selectedRecipe?.name === recipe.name">
 					<span @click="quantity++">+</span>
 					<span @click="() => quantity > 1 ? quantity-- : 0">-</span>
 				</div>
+				{{ recipe.name }}
 			</div>
 		</nav>
 		<main>
@@ -85,7 +85,7 @@ const quantity = ref(1);
 			}
 
 			&.active {
-				text-shadow: 0 0 20px var(--accent1);
+				font-weight: bold;
 			}
 
 			.quantity {
