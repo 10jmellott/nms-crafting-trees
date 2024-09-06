@@ -1,0 +1,10 @@
+@import 'reset.css';
+@import 'theme.scss';
+@import 'fonts.scss';
+
+html,
+body {
+	background: var(--background);
+	color: var(--foreground);
+	line-height: normal;
+}

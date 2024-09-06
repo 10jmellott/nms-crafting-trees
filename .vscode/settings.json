@@ -1,0 +1,11 @@
+{
+	"files.exclude": {
+		"package-lock.json": true,
+		".editorconfig": true,
+		".gitignore": true,
+		".gitattributes": true,
+		"tsconfig.json": true,
+		"tsconfig.app.json": true,
+		"tsconfig.node.json": true,
+	}
+}

@@ -1,0 +1,342 @@
+[
+	{
+		"name": "Stasis Device",
+		"icon": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/c/c2/ULTRAPROD.2.png/revision/latest",
+		"ingredients": [
+			{
+				"name": "Iridesite",
+				"quantity": 1
+			},
+            {
+                "name": "Quantum Processor",
+                "quantity": 1
+            },
+            {
+                "name": "Cryogenic Chamber",
+                "quantity": 1
+            }
+		]
+	},
+    {
+        "name": "Iridesite",
+        "icon": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/4/40/PRODUCT.IRIDISITE.png/revision/latest",
+        "ingredients": [
+            {
+                "name": "Aronium",
+                "quantity": 1
+            },
+            {
+                "name": "Magno-Gold",
+                "quantity": 1
+            },
+            {
+                "name": "Grantine",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "name": "Aronium",
+        "icon": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/2/23/Product.metallic.1.png/revision/latest",
+        "ingredients": [
+            {
+                "name": "Paraffinium",
+                "quantity": 50
+            },
+            {
+                "name": "Ionised Cobalt",
+                "quantity": 50
+            }
+        ]
+    },
+    {
+        "name": "Paraffinium",
+        "icon": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/7/7f/SUBSTANCE.BIOME.LUSH.png/revision/latest/scale-to-width-down/100"
+    },
+    {
+        "name": "Ionised Cobalt",
+        "icon": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/e/e3/SUBSTANCE.CAVE.2.png/revision/latest/scale-to-width-down/100"
+    },
+    {
+        "name": "Magno-Gold",
+        "icon": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/7/75/Product.metallic.5.png/revision/latest",
+        "ingredients": [
+            {
+                "name": "Phosphorus",
+                "quantity": 50
+            },
+            {
+                "name": "Ionised Cobalt",
+                "quantity": 50
+            }
+        ]
+    },
+    {
+        "name": "Phosphorus",
+        "icon": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/7/7c/SUBSTANCE.BIOME.HOT.png/revision/latest/scale-to-width-down/100"
+    },
+    {
+        "name": "Grantine",
+        "icon": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/a/a0/Product.metallic.6.png/revision/latest",
+        "ingredients": [
+            {
+                "name": "Dioxite",
+                "quantity": 50
+            },
+            {
+                "name": "Ionised Cobalt",
+                "quantity": 50
+            }
+        ]
+    },
+    {
+        "name": "Dioxite",
+        "icon": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/d/df/SUBSTANCE.BIOME.COLD.png/revision/latest/scale-to-width-down/100"
+    },
+    {
+        "name": "Quantum Processor",
+        "icon": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/e/ef/MEGAPROD.2.png/revision/latest",
+        "ingredients": [
+            {
+                "name": "Circuit Board",
+                "quantity": 1
+            },
+            {
+                "name": "Superconductor",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "name": "Circuit Board",
+        "icon": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/4/41/FARMPROD.9.png/revision/latest",
+        "ingredients": [
+            {
+                "name": "Heat Capacitor",
+                "quantity": 1
+            },
+            {
+                "name": "Poly Fibre",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "name": "Heat Capacitor",
+        "icon": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/7/7f/FARMPROD.4.png/revision/latest",
+        "ingredients": [
+            {
+                "name": "Frost Crystal",
+                "quantity": 100
+            },
+            {
+                "name": "Solanium",
+                "quantity": 200
+            }
+        ]
+    },
+    {
+        "name": "Frost Crystal",
+        "icon": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/7/7d/SUBSTANCE.PLANT.SNOW.png/revision/latest/scale-to-width-down/100"
+    },
+    {
+        "name": "Solanium",
+        "icon": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/f/fa/SUBSTANCE.PLANT.HOT.png/revision/latest/scale-to-width-down/100"
+    },
+    {
+        "name": "Poly Fibre",
+        "icon": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/4/42/FARMPROD.5.png/revision/latest",
+        "ingredients": [
+            {
+                "name": "Cactus Flesh",
+                "quantity": 100
+            },
+            {
+                "name": "Star Bulb",
+                "quantity": 200
+            }
+        ]
+    },
+    {
+        "name": "Cactus Flesh",
+        "icon": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/7/7f/SUBSTANCE.PLANT.DUSTY.png/revision/latest/scale-to-width-down/100"
+    },
+    {
+        "name": "Star Bulb",
+        "icon": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/7/72/SUBSTANCE.PLANT.LUSH.png/revision/latest/scale-to-width-down/100"
+    },
+    {
+        "name": "Superconductor",
+        "icon": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/9/98/COMPOUND.5.png/revision/latest",
+        "ingredients": [
+            {
+                "name": "Enriched Carbon",
+                "quantity": 1
+            },
+            {
+                "name": "Semiconductor",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "name": "Enriched Carbon",
+        "icon": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/4/41/REACTION.2.png/revision/latest",
+        "ingredients": [
+            {
+                "name": "Radon",
+                "quantity": 250
+            },
+            {
+                "name": "Condensed Carbon",
+                "quantity": 50
+            }
+        ]
+    },
+    {
+        "name": "Radon",
+        "icon": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/0/0d/GAS.2.png/revision/latest/scale-to-width-down/100"
+    },
+    {
+        "name": "Condensed Carbon",
+        "icon": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/a/a5/SUBSTANCE.FUEL.2.png/revision/latest/scale-to-width-down/100"
+    },
+    {
+        "name": "Semiconductor",
+        "icon": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/c/c3/COMPOUND.2.png/revision/latest",
+        "ingredients": [
+            {
+                "name": "Thermic Condensate",
+                "quantity": 1
+            },
+            {
+                "name": "Nitrogen Salt",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "name": "Thermic Condensate",
+        "icon": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/d/d4/REACTION.1.png/revision/latest",
+        "ingredients": [
+            {
+                "name": "Condensed Carbon",
+                "quantity": 50
+            },
+            {
+                "name": "Sulphurine",
+                "quantity": 250
+            }
+        ]
+    },
+    {
+        "name": "Sulphurine",
+        "icon": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/7/77/GAS.3.png/revision/latest/scale-to-width-down/100"
+    },
+    {
+        "name": "Nitrogen Salt",
+        "icon": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/8/8f/Reaction.3.png/revision/latest",
+        "ingredients": [
+            {
+                "name": "Nitrogen",
+                "quantity": 250
+            },
+            {
+                "name": "Condensed Carbon",
+                "quantity": 50
+            }
+        ]
+    },
+    {
+        "name": "Nitrogen",
+        "icon": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/7/77/GAS.1.png/revision/latest/scale-to-width-down/100"
+    },
+    {
+        "name": "Cryogenic Chamber",
+        "icon": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/4/4e/PRODUCT.CRYOCHAMBER.png/revision/latest",
+        "ingredients": [
+            {
+                "name": "Living Glass",
+                "quantity": 1
+            },
+            {
+                "name": "Cryo-Pump",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "name": "Living Glass",
+        "icon": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/1/1e/FARMPROD.8.png/revision/latest",
+        "ingredients": [
+            {
+                "name": "Lubricant",
+                "quantity": 1
+            },
+            {
+                "name": "Glass",
+                "quantity": 5
+            }
+        ]
+    },
+    {
+        "name": "Lubricant",
+        "icon": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/1/18/FARMPROD.2.png/revision/latest",
+        "ingredients": [
+            {
+                "name": "Gamma Root",
+                "quantity": 400
+            },
+            {
+                "name": "Faecium",
+                "quantity": 50
+            }
+        ]
+    },
+    {
+        "name": "Gamma Root",
+        "icon": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/7/7e/SUBSTANCE.PLANT.RADIO.png/revision/latest/scale-to-width-down/100"
+    },
+    {
+        "name": "Faecium",
+        "icon": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/c/cf/SUBSTANCE.PLANT.POOP.png/revision/latest/scale-to-width-down/100"
+    },
+    {
+        "name": "Glass",
+        "icon": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/8/8e/FARMPROD.3.png/revision/latest",
+        "ingredients": [
+            {
+                "name": "Frost Crystal",
+                "quantity": 40
+            }
+        ]
+    },
+    {
+        "name": "Cryo-Pump",
+        "icon": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/1/17/COMPOUND.6.png/revision/latest",
+        "ingredients": [
+            {
+                "name": "Hot Ice",
+                "quantity": 1
+            },
+            {
+                "name": "Thermic Condensate",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "name": "Hot Ice",
+        "icon": "https://static.wikia.nocookie.net/nomanssky_gamepedia/images/6/61/COMPOUND.3.png/revision/latest",
+        "ingredients": [
+            {
+                "name": "Enriched Carbon",
+                "quantity": 1
+            },
+            {
+                "name": "Nitrogen Salt",
+                "quantity": 1
+            }
+        ]
+    }
+]
